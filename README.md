@@ -1,8 +1,12 @@
-# React + Vite
+# Work On this Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech Used - React js , tailwind
 
-Currently, two official plugins are available:
+Feat - api used , product filteration category wise , sorting wise , adding , removing item and mounting the count items , item displaying in grid view and list view.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fix - state in reducer , localstorage .
+
+Refactor - authentication , price input range , user profile .
+
+
+https://github.com/AbhishekAnan00/EcomReact/assets/156063395/8bb77e15-2094-4750-883a-da081e08fa54
